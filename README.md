@@ -1,5 +1,11 @@
 # 🌙 Sandy – Portfolio & Services Website  
 
+[![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&logo=vercel)]()  
+[![Made with HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)]()  
+[![Made with TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0-38B2AC?style=for-the-badge&logo=tailwindcss)]()  
+[![AOS Animations](https://img.shields.io/badge/AOS-Animate_on_Scroll-blueviolet?style=for-the-badge)]()  
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)]()  
+
 A modern, **luxury dark-gold themed portfolio and pricing website** built using **HTML + TailwindCSS + AOS animations**.  
 This website showcases **my services, pricing, portfolio, testimonials, and contact details** in a sleek single-page design.  
 
@@ -20,37 +26,13 @@ This website showcases **my services, pricing, portfolio, testimonials, and cont
 
 ## 🖼 Sections Overview  
 
-1. **Hero Section**  
-   - Catchy tagline with CTA button.  
-   - Sets the tone: *Build. Secure. Grow. 🚀*  
-
-2. **Services**  
-   - Web & Mobile Development  
-   - Digital Marketing (SMM, SMMA, Ads, Affiliate, Dropshipping)  
-   - Creative & Content (Design, Video, Theme Pages, Products)  
-   - Security & Tech (Web Audits, DevSecOps, Linux, Bots)  
-   - Mentoring & Side Hustles  
-
-3. **Pricing**  
-   - **Basic Website** – $150 / ₹12,000  
-   - **Dynamic Website** – $500 / ₹40,000  
-   - **Premium E-Commerce** – $1200+ / ₹95,000+  
-
-4. **Portfolio**  
-   - **IGDefender** – Instagram tool to report cyberbullies  
-   - **CyberShield** – Tool to tackle cybercrime across the internet  
-
-5. **Testimonials**  
-   - Real client experiences showcasing professionalism & expertise.  
-
-6. **Contact**  
-   - Simple CTA with a direct external link.  
-
-7. **Extras** (optional add-ons)  
-   - About Me  
-   - Work Process  
-   - FAQ Section  
-   - Final Call-to-Action  
+1. **Hero Section** – Catchy tagline with CTA button  
+2. **Services** – Wide range of offerings  
+3. **Pricing** – Static, Dynamic, Premium packages  
+4. **Portfolio** – Showcasing projects (*IGDefender* & *CyberShield*)  
+5. **Testimonials** – Real client reviews  
+6. **Contact** – Simple CTA with direct link  
+7. **Extras** – About Me, Work Process, FAQ, Call-to-Action  
 
 ---
 
